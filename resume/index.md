@@ -9,11 +9,11 @@ Current Position Description
 
 `2012-2017`
 __NC State University__
-Degree Awarded Bachelors
+Bachelors in Physics, Electrical Engineering, Minor in Math
 
-`1995 - 1997`
-__University Name__
-Degree Awarded
+`2008-2012`
+__Davidson County Community College__
+Associate in Arts
 
 ## Awards
 
@@ -26,8 +26,8 @@ Name of Award, Organization
 
 ### Journals
 
-`1994`
-Article Title, Journal Title
+`2015`
+Growth of thermally stable crystalline $$C_{60}$$ films on flat-lying copper phthalocyanine, Journal of Material Chemistry A [DOI: 10.1039/C5TA06820G](http://dx.doi.org/10.1039/C5TA06820G)
 
 `1994`
 Article Title, Journal Title
