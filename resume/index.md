@@ -7,18 +7,18 @@ Current Position Description
 
 ## Education
 
-`1990 - 1994`
+`NC State University`
 __University Name__
 Degree Awarded
 
 `1995 - 1997`
 __University Name__
-Degree Awarded 
+Degree Awarded
 
 ## Awards
 
 `2012`
-Name of Award, Organization 
+Name of Award, Organization
 
 ## Publications
 
@@ -50,13 +50,13 @@ Presentation Title, Conference, <a href="http://MyWebsite.tld/presentation1">Lin
 ## Occupation
 
 `Current`
-__Current Job Title__, Current Employer 
+__Current Job Title__, Current Employer
 
 - Task
 - Task
 
 `1994-1996`
-__Current Job Title__, Current Employer 
+__Current Job Title__, Current Employer
 
 - Task
 - Task
@@ -66,5 +66,3 @@ __Current Job Title__, Current Employer
 <!-- ### Footer
 
 Last updated: May 2013 -->
-
-
