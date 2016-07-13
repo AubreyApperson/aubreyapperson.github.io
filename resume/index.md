@@ -7,9 +7,9 @@ Current Position Description
 
 ## Education
 
-`NC State University`
-__University Name__
-Degree Awarded
+`2012-2017`
+__NC State University__
+Degree Awarded Bachelors
 
 `1995 - 1997`
 __University Name__
