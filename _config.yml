@@ -1,6 +1,6 @@
 # Site wide configuration
 
-title:            Site Title
+title:            AK Apperson
 locale:           en_US
 logo:
 url:
@@ -8,7 +8,7 @@ url:
 owner:
   name: Aubrey Apperson
   avatar: bio-photo.jpg
-  bio: "A brief description of yourself."
+  bio: "Physics Researcher and Engineering Student"
   email: # email address goes here
   disqus-shortname:
   twitter: #username
