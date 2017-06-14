@@ -40,13 +40,13 @@ Presentation Title, Conference, <a href="http://MyWebsite.tld/presentation1">Lin
 
 `2017`
 Nucleation Dependance of Carbon 60 on Graphite as a Function of Flux
-href="http://MyWebsite.tld/presentation1">Link to Presentation (not active)</a>
+<a href="http://MyWebsite.tld/presentation1">Link to Presentation (not active)</a>
 
 
 ## Occupation
 
 `Current`
-__stuff goes here test //Duke TIP Field Studies Instructional Counselor, Duke TIP
+__stuff goes here test <!-- Duke TIP Field Studies Instructional Counselor, Duke TIP -->
 
 - Task
 - Task
