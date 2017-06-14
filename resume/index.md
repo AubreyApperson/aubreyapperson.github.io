@@ -9,7 +9,7 @@ Current Position Description
 
 `2012-2017`
 __NC State University__
-Bachelors in Physics, Electrical Engineering, Minor in Math
+Electrical Engineering Physics, Minor in Mathematics
 
 `2008-2012`
 __Davidson County Community College__
@@ -32,29 +32,27 @@ Growth of thermally stable crystalline $$C_{60}$$ films on flat-lying copper pht
 `1994`
 Article Title, Journal Title
 
-### Books
-
-`1994`
-Book Title, Journal Title
-
-`1994`
-Book Title, Journal Title
-
 
 ## Presentations
 
-`1994`
+`2017`
 Presentation Title, Conference, <a href="http://MyWebsite.tld/presentation1">Link to Presentation</a>
+
+`2017`
+Nucleation Dependance of Carbon 60 on Graphite as a Function of Flux
+href="http://MyWebsite.tld/presentation1">Link to Presentation (not active)</a>
 
 
 ## Occupation
 
 `Current`
-__Current Job Title__, Current Employer
+__stuff goes here test //Duke TIP Field Studies Instructional Counselor, Duke TIP
 
 - Task
 - Task
 
+
+`Previous`
 `1994-1996`
 __Current Job Title__, Current Employer
 
