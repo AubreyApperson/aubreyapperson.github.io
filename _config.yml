@@ -1,6 +1,6 @@
 # Site wide configuration
 
-title:            AK Apperson
+title:            A Apperson
 locale:           en_US
 logo:
 url:
@@ -20,7 +20,7 @@ owner:
     ad-client:
     ad-slot:
   bing-verify:
-  github: topguninsecret.github.io
+  github: aubreyapperson.github.io
   stackoverflow: #123456/username from a "http://stackoverflow.com/users/123456/username" link
   linkedin: aubreyapperson #username
   xing: #username
